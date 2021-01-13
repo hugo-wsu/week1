@@ -13,6 +13,8 @@ First Repo
   
  `git status` check the status of the repository
  
+ `git checkout` to recover or checkout fiels from last commit
+ 
  ## Basic Bash command
  
  `pwd` print current working directory
@@ -26,6 +28,9 @@ First Repo
  `mkdir` create directory
  
  `touch` create a dummy file placeholder
-cat to concatenate or display file to stdout
-echo to print to screen
-echo >> file: to redirect output to file
+
+`cat` to concatenate or display file to stdout
+
+`echo` to print to screen
+
+`echo >> file` to redirect output to file
